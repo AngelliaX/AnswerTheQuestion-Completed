@@ -1,5 +1,2 @@
 # AnswerTheQuestion-Completed
-Answer the question
-Contact
-Discord: Tungsten#8114
-FB: Fb.com/tungstenvn
+Release now in https://www.youtube.com/watch?v=nErK-HeZZzs
