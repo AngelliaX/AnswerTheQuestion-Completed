@@ -4,8 +4,8 @@ branches:
 branches:
 - master
 projects:
-  TraLoiCauHoi:
-    path: TraLoiCauHoi/
+  AnswerTheQuestion:
+    path: README.md/
 ...
 A minigame plugins, Popup the question for player to answer
 Watch how to use the plugins in
