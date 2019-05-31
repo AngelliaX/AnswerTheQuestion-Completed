@@ -1,6 +1,12 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/TungstenVn/SimSiMi
 branches:
 - master
+branches:
+- master
+projects:
+  TraLoiCauHoi:
+    path: TraLoiCauHoi/
+...
 A minigame plugins, Popup the question for player to answer
 Watch how to use the plugins in
 https://www.youtube.com/watch?v=nErK-HeZZzsFinish my plugins, watch how to use in: https://www.youtube.com/watch?v=nErK-HeZZzs
